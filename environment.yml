@@ -1,0 +1,12 @@
+name: transformer
+channels:
+  - defaul
+  - python=3.7.10
+
+  - pip:
+      - scikit-learn==0.24.2
+
+      - tensorflow==2.5.0
+
+      - zipp==3.4.1
+prefix: C:\Users\ADMIN\miniconda3\envs\transformer
